@@ -25,9 +25,6 @@ This project is built for **beginners** who want to:
 * Learn TypeScript-based web app development
 * Get inspiration for building similar tools
 
-## ⚠️ Disclaimer
-
-This is a **demo / educational project** and not intended for production-level security use.
 
 ## 🤝 Contributions
 
